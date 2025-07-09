@@ -135,3 +135,13 @@ amz:
     # 文件存储路径
     timeformat: yyyy-MM
 
+jira:
+
+  base-url: "http://canal.hikvision.com.cn/"
+
+  login-jsp: "login.jsp"
+
+  filter-stats: "rest/gadget/1.0/twodimensionalfilterstats/generate"
+
+et:
+  base-url: "http://canal.hikvision.com.cn/"
